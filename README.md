@@ -49,10 +49,10 @@
 <img width="1907" height="802" alt="support" src="https://github.com/user-attachments/assets/58b6d9a9-bdd9-4eb1-a511-6554b0e3c825" />
 
 ## OUTPUT :UV CURING 
-<img width="1907" height="802" alt="support" src="https://github.com/user-attachments/assets/47805d1b-c1a8-438e-b120-7c6cf56762e2" />
+<img width="1917" height="792" alt="uv curing" src="https://github.com/user-attachments/assets/bd0883c4-0e46-47b6-bde3-50002aed7fb8" />
 
 ## OUTPUT :HEAT TREATEMENT
-![Uploading heat treatement.png…]()
+<img width="1907" height="787" alt="heat treatement" src="https://github.com/user-attachments/assets/0c46a5ad-7155-4d70-938b-ba6916b872f0" />
 
 ### Name:RANTHIYA S 
 ### Register Number:212225230225
